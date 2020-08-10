@@ -4,6 +4,6 @@
     "github_username": "EddieBreeg",
     "package_name": "Nameless",
     "dir_name": "packaging",
-    "project_short_description": "Put a propper description here. Generated with ",
+    "project_short_description": "Put a propper description here. Generated with EddieBreeg/cookiecutter-pythonlib-minimal",
     "version": "0.0.1"
 }
